@@ -1,0 +1,18 @@
+{
+  "name": "合格ペース",
+  "short_name": "合格ペース",
+  "description": "資格の試験日まで、平日と休日の勉強時間を週単位で管理します。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3ecdf",
+  "theme_color": "#1a1714",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
